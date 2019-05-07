@@ -1,0 +1,21 @@
+{
+    "type": "object",
+    "properties": {
+        "brand": {
+            "required": false,
+            "type": "string"
+        },
+        "epid": {
+            "required": false,
+            "type": "string"
+        },
+        "gtin": {
+            "required": false,
+            "type": "string"
+        },
+        "mpn": {
+            "required": false,
+            "type": "string"
+        }
+    }
+}

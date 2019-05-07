@@ -1,0 +1,15 @@
+{
+    "name": "ebay-com-buy-marketing-connector",
+    "version": "1.0.0",
+    "description": "The Marketing API retrieves eBay products based on a metric, such as Best Selling, as well as products that were also bought and also viewed.",
+    "main": "component.json",
+    "dependencies": {
+        "elasticio-node": "0.0.9",
+        "elasticio-sailor-nodejs": "^2.2.1",
+        "swagger-client": "^3.8.22"
+    },
+    "author": {
+        "name": "Deutsche Telekom AG"
+    },
+    "license": "Apache-2.0"
+}
